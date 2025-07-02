@@ -1,2 +1,2 @@
 # pico-sstc-interrupter
-simple interrupter based on raspberry pi pico, made with platformio + picoSDK
+simple interrupter based on raspberry pi pico, made with platformio + picoSDK and TinyUSB
